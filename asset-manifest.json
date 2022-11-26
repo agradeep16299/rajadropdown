@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/rajadropdown/static/css/main.073c9b0a.css",
+    "main.js": "/github.io/rajadropdown/static/js/main.dc91abe7.js",
+    "static/js/787.448e8abf.chunk.js": "/github.io/rajadropdown/static/js/787.448e8abf.chunk.js",
+    "static/media/logo.svg": "/github.io/rajadropdown/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/rajadropdown/index.html",
+    "main.073c9b0a.css.map": "/github.io/rajadropdown/static/css/main.073c9b0a.css.map",
+    "main.dc91abe7.js.map": "/github.io/rajadropdown/static/js/main.dc91abe7.js.map",
+    "787.448e8abf.chunk.js.map": "/github.io/rajadropdown/static/js/787.448e8abf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dc91abe7.js"
+  ]
+}
